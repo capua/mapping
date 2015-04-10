@@ -19,3 +19,6 @@ export PATH=/Library/Frameworks/GDAL.framework/Programs:$PATH
 
 - [GeoJSON.io](http://www.mapshaper.org/)
 - [Mapshaper](http://www.mapshaper.org/)
+
+## License
+MIT © [capua](https://github.com/capua)
