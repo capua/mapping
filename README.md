@@ -15,6 +15,12 @@ export PATH=/Library/Frameworks/GDAL.framework/Programs:$PATH
 
 > To test your installation, run the terminal command `gdalinfo --version`
 
+#### QGIS Plugins
+
+- SimpleSvg
+- TileLayer Plugin
+- Table Manager
+
 ## Web utils
 
 - [GeoJSON.io](http://www.mapshaper.org/)
