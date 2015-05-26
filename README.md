@@ -27,5 +27,54 @@ export PATH=/Library/Frameworks/GDAL.framework/Programs:$PATH
 - [Mapshaper](http://www.mapshaper.org/) *Edit/simplify geospatial vector data*
 - [Overpass Turbo](http://overpass-turbo.eu/) *Data mining of OpenStreetMap*
 
+## Getting started
+
+### Style
+
+#### CartoCSS
+
+### Data
+
+### Publishing
+
+## Glossary
+
+##### Baselayer
+*Insert definition here*
+
+##### Overlay
+*Insert definition here*
+
+##### Tile layer
+*Insert definition here*
+
+##### Feature
+*Insert definition here*
+
+##### GeoJSON
+*Insert definition here*
+
+##### Shapefile
+*Insert definition here*
+
+##### KML
+*Insert definition here*
+
+##### Raster data
+*Insert definition here*
+
+##### Projection
+*Insert definition here*
+
+##### TIF
+*Insert definition here*
+
+##### GIS
+*Insert definition here*
+
+##### Vector data
+*Insert definition here*
+
+
 ## License
 MIT © [capua](https://github.com/capua)
