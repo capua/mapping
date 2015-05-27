@@ -40,7 +40,8 @@ export PATH=/Library/Frameworks/GDAL.framework/Programs:$PATH
 ## Glossary
 
 ##### Baselayer
-*Insert definition here*
+
+Layer used as *background* that contains the info of the world (terrain, streets, roads).
 
 ##### Overlay
 *Insert definition here*
