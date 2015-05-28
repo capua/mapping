@@ -62,10 +62,12 @@ Layer used as *background* that contains the info of the world (terrain, streets
 *Insert definition here*
 
 ##### Shapefile
-*Insert definition here*
+
+ Geospatial vector data format for geographic information system *(GIS)*.
 
 ##### KML
-*Insert definition here*
+
+ XML notation for expressing geographic annotation and visualization.
 
 ##### Raster data
 *Insert definition here*
@@ -77,7 +79,8 @@ Layer used as *background* that contains the info of the world (terrain, streets
 *Insert definition here*
 
 ##### GIS
-*Insert definition here*
+
+A geographic information system, you know.
 
 ##### Vector data
 *Insert definition here*
