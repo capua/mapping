@@ -21,12 +21,6 @@ export PATH=/Library/Frameworks/GDAL.framework/Programs:$PATH
 - TileLayer Plugin
 - Table Manager
 
-## Web utils
-
-- [GeoJSON.io](http://www.mapshaper.org/) *Edit/display geojson map data*
-- [Mapshaper](http://www.mapshaper.org/) *Edit/simplify geospatial vector data*
-- [Overpass Turbo](http://overpass-turbo.eu/) *Data mining of OpenStreetMap*
-
 ## Getting started
 
 ### Style
@@ -36,6 +30,12 @@ export PATH=/Library/Frameworks/GDAL.framework/Programs:$PATH
 ### Data
 
 ### Publishing
+
+## Web utils
+
+- [GeoJSON.io](http://www.mapshaper.org/) *Edit/display geojson map data*
+- [Mapshaper](http://www.mapshaper.org/) *Edit/simplify geospatial vector data*
+- [Overpass Turbo](http://overpass-turbo.eu/) *Data mining of OpenStreetMap*
 
 ## Glossary
 
