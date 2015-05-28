@@ -1,4 +1,10 @@
 # Mapping
+
+Table of contents:
+- [Software installation](#software-installation)
+- [Getting started](#getting-started)
+- [Web utils](#web-utils)
+- [Glossary](#glossary)
  
 ## Software installation
 
