@@ -50,41 +50,48 @@ export PATH=/Library/Frameworks/GDAL.framework/Programs:$PATH
 Layer used as *background* that contains the info of the world (terrain, streets, roads).
 
 ##### Overlay
-*Insert definition here*
+
+Layer that overlays the baselayer with custom info.
 
 ##### Tile layer
-*Insert definition here*
+
+Square bitmap graphics displayed in a grid arrangement to show a map.
 
 ##### Feature
-*Insert definition here*
+
+Features is a term used to describe markers, lines and polygons.
 
 ##### GeoJSON
 
-Format for encoding collections of geographic data structures (points, lines, poligons) using *JSON*.
+Format for encoding collections of geographic data structures (features) using *JSON*.
 
 ##### Shapefile
 
- Geospatial vector data format for geographic information system *(GIS)*.
+Geospatial vector data format for geographic information system *(GIS)*.
 
 ##### KML
 
- XML notation for expressing geographic annotation and visualization.
-
-##### Raster data
-*Insert definition here*
+XML notation for expressing geographic annotation and visualization.
 
 ##### Projection
-*Insert definition here*
+
+Projections are methods of transforming the coordinates of locations on earth to a two-dimensional plane. *Web Mercator* is adopted by the vast majority of web maps.
 
 ##### TIF
-*Insert definition here*
+
+A TIF is a file format for saving raster images. TIF is often a *GeoTIFF*, meaning the file is embedded with georeferencing information.
+
+##### Raster data
+
+Rasters are a pixel-based data format that represent surfaces. Digital photographs are stored in this format, which is also referred to as a bitmap.
+
+##### Vector data
+
+Vector data is made of points, lines and polygons. *KML*, *GeoJSON*, *shapefiles*, *GPX* are all examples of vector data formats.
 
 ##### GIS
 
 A geographic information system, you know.
-
-##### Vector data
-*Insert definition here*
 
 
 ## License
