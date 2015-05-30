@@ -59,7 +59,8 @@ Layer used as *background* that contains the info of the world (terrain, streets
 *Insert definition here*
 
 ##### GeoJSON
-*Insert definition here*
+
+Format for encoding collections of geographic data structures (points, lines, poligons) using *JSON*.
 
 ##### Shapefile
 
