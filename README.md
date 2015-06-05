@@ -33,6 +33,12 @@ export PATH=/Library/Frameworks/GDAL.framework/Programs:$PATH
 
 #### CartoCSS
 
+Is a language for map design and it is similiar in syntax to CSS, but builds upon it with specific abilities to filter map data and by providing things like variables.
+
+Carto, aka CartoCSS, targets the Mapnik renderer and is able to generate Mapnik XML.
+
+Carto is an evolution of the *Cascadenik* idea and language, with an emphasis on speed and flexibility.
+
 ### Data
 
 ### Publishing
