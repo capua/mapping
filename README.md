@@ -48,7 +48,7 @@ Carto is an evolution of the *Cascadenik* idea and language, with an emphasis on
 - [GeoJSON.io](http://www.mapshaper.org/) *Edit/display geojson map data*
 - [Mapshaper](http://www.mapshaper.org/) *Edit/simplify geospatial vector data*
 - [Overpass Turbo](http://overpass-turbo.eu/) *Data mining of OpenStreetMap*
-
+- [Mapschool](http://mapschool.io/index.es.html) *A free introduction to geo (9 languages)*
 ## Glossary
 
 ##### Baselayer
