@@ -43,7 +43,7 @@ Carto is an evolution of the *Cascadenik* idea and language, with an emphasis on
 
 When we had the *baselayer* ready, it's time to play with data. To add our custom data to the world, we need a javascript library.
 
-## Mapbox.js
+#### Mapbox.js
 
 Mapbox.js is a web mapping library that extends the popular *Leaflet.js* library. A web mapping library allows you to add a map to a web page and define its basemap tiles, its data, and a variety of functionality. Think of it like a toolbox filled with many different map-making tools that can be used together to build beautiful and interactive custom experiences.
 
